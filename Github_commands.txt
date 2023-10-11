@@ -1,0 +1,5 @@
+## Delete UnWanted Files Using Git Command ##
+git rm -f (Your File Name)
+
+## Delete Unwanted Folder Using Git Command ##
+git rm -r -f (Your Folder Name)
